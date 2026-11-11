@@ -22,11 +22,7 @@ The Fake Medicine Detection App is a machine learning-powered application design
 - ML Models: Custom Spacy NER model, EasyOCR for text extraction
 
 ## Getting Started
-- Clone the repository:
 
-  ```bash
-      git clone https://github.com/Adya-Mishra/Fake-Medicine-Detection-App.git
-      cd Fake-Medicine-Detection-App
 
 - Set up a MySQL Database:
 
